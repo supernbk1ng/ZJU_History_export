@@ -85,10 +85,6 @@ http://127.0.0.1:<端口>   # 例如 7861/7862
 - README 中的占位引用：
   - ![首页](assets/screenshots/home.png)
   - ![问答示例](assets/screenshots/query_example.png)
-  - ![系统统计](assets/screenshots/stats.png)
-- 生成建议：
-  - 启动 Web 后在浏览器中全屏截图，分辨率建议 ≥ 1280×720
-  - 如需匿名处理，手动裁剪隐藏浏览器地址栏或系统托盘信息
 
 ## 最小化验证
 - 直连 LLM 测试：
