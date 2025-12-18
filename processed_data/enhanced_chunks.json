@@ -1,0 +1,3750 @@
+[
+  {
+    "id": "zju_history.txt_p0",
+    "content": "浙江大学的校史文化历史悠久积淀深厚。1897年求是书院（浙江大学前身）创立，是浙江大学的源头。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 47,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p1",
+    "content": "1928年，定名国立浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 15,
+    "time_periods": [
+      "1928年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p2",
+    "content": "抗战期间，浙大举校西迁，先后在浙江西天目山建德，江西吉安泰和，广西宜山，贵州遵义湄潭等地办学。1952年全国高等学校院系调整，主体部分发展为原浙江大学杭州大学浙江农业大学和浙江医科大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 93,
+    "time_periods": [
+      "1952年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "建德",
+      "吉安",
+      "泰和",
+      "宜山",
+      "遵义",
+      "湄潭",
+      "天目山"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p3",
+    "content": "1998年，同根同源的四校实现合并，组建新浙江大学，迈上了创建世界一流大学的新征程。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 42,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p4",
+    "content": "浙大简史 2025年是浙江大学建校128周年。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 23,
+    "time_periods": [
+      "2025年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p5",
+    "content": "浙大的前身可以追溯到1897年创办的求是书院，其沿革历程见下图。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 32,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p6",
+    "content": "在128年发展历程中，浙江大学主要经历了四个阶段：溯源求是（18971928）探求崛起（19281952）调整发展（19521998）争创一流（1998至今）。溯源求是（18971928） 清光绪二十三年四月二十日（1897年5月21日），求是书院正式开学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 129,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p7",
+    "content": "杭州知府林启兼任求是书院总办。其中求是二字最早出自《汉书河间献王传》中修学好古，实事求是语。求是书院是在甲午后维新浪潮中为救亡图存而成立的一所新式学堂，是国人自办的最早的新式高等教育机构之一，在中国近现代教育史上占有重要的一页。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 114,
+    "time_periods": [],
+    "figures": [
+      "林启"
+    ],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p8",
+    "content": "学院几经易名，分别曾称浙江求是大学堂浙江大学堂浙江高等学堂浙江高等学校。曾培养出蒋方震何燏时邵飘萍等在中国近现代史上留下浓墨重彩的先进知识分子。1927年7月15日，国民政府在求是书院原址成立国立第三中山大学，合并了浙江工专与浙江农专为工学院与劳农学院，又于1928年成立了文理学院，蒋梦麟任校长。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 149,
+    "time_periods": [
+      "1927年",
+      "1928年"
+    ],
+    "figures": [
+      "蒋梦麟"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p9",
+    "content": "探求崛起（19281952） 国立浙江大学时期是浙江大学办学史中辉煌的一段历史时期，特别是著名科学家教育家竺可桢出任校长以后，浙江大学秉承求是精神，逐渐成为一所以东方剑桥之誉闻名于世的高等学府，成为中外高等教育史上的一段佳话。1928年5月，学校更名为国立浙江大学，汇集了陈建功苏步青束星北贝时璋蔡邦华等一批名师大家。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 159,
+    "time_periods": [
+      "1928年"
+    ],
+    "figures": [
+      "竺可桢",
+      "陈建功",
+      "苏步青",
+      "束星北",
+      "贝时璋",
+      "蔡邦华"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p10",
+    "content": "1936年4月，竺可桢就任浙江大学校长。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 20,
+    "time_periods": [
+      "1936年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p11",
+    "content": "抗战爆发后，为保存知识与文明的火种，浙江大学被迫西迁，完成了文军长征的壮举，全程2600余公里，历经9年，足迹踏遍浙赣湘粤桂黔6省。初迁浙江建德 1937年9月21日，浙江大学一年级新生迁往天目山禅源寺，11月11日开始，浙大师生分三批出发，迁往120公里开外的建德，下旬一年级也迁往建德与本部汇合。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 150,
+    "time_periods": [
+      "1937年"
+    ],
+    "figures": [],
+    "locations": [
+      "建德",
+      "天目山",
+      "禅源寺"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p12",
+    "content": "在此期间，浙江大学协助浙江省图书馆将文澜阁的《四库全书》迁移，并实行了导师制。二迁江西吉安泰和 1937年底，日军占领杭州，浙大师生被迫从建德启程赴赣，于1938年1月抵达江西吉安，2月又迁往泰和。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 99,
+    "time_periods": [
+      "1937年",
+      "1938年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "建德",
+      "吉安",
+      "泰和"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p13",
+    "content": "西迁过程中，由于医疗卫生条件极差，竺可桢校长次子竺衡与夫人张侠魂感染疾病，相继病殁。三迁广西宜山 1938年8月，浙大再次西迁，迁往广西宜山县。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 72,
+    "time_periods": [
+      "1938年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [
+      "宜山"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p14",
+    "content": "在日军的炮火声中，浙江大学确立了求是的校训，谱定了校歌，实现了精神上的浴火重生。从此，求是精神成为浙江大学攀登科学与教育高峰的不竭动力。四迁贵州遵义湄潭 1940年2月，浙大师生迁到贵州遵义湄潭等地，开启了长达7年的稳定办学时期。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 115,
+    "time_periods": [
+      "1940年"
+    ],
+    "figures": [],
+    "locations": [
+      "遵义",
+      "湄潭"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p15",
+    "content": "在西迁过程中，浙江大学办学规模不断扩大，截至1946年初，已有7个学院26个学系，汇集了马一浮丰子恺钱穆王淦昌苏步青陈建功谈家桢竺可桢等一系列大师名家，培养出李政道程开甲谷超豪叶笃正等优秀人才。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 97,
+    "time_periods": [
+      "1946年"
+    ],
+    "figures": [
+      "竺可桢",
+      "陈建功",
+      "苏步青",
+      "马一浮",
+      "丰子恺",
+      "钱穆",
+      "王淦昌",
+      "谈家桢",
+      "李政道",
+      "程开甲",
+      "谷超豪",
+      "叶笃正"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p16",
+    "content": "英国皇家科学院院士李约瑟曾多次考察浙江大学，盛赞浙江大学为东方剑桥。抗日战争结束以后，浙江大学师生分批返杭。1949年5月3日，杭州解放。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 69,
+    "time_periods": [
+      "1949年"
+    ],
+    "figures": [
+      "李约瑟"
+    ],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p17",
+    "content": "调整发展（19521998） 1949年新中国成立后，浙江大学进入新的历史发展时期。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 42,
+    "time_periods": [
+      "1949年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p18",
+    "content": "在近半个世纪的办学中，同根同源的浙江大学杭州大学浙江农业大学浙江医科大学均取得了较大的发展，全部通过211工程预审。1952年全国高校院系调整后，浙江大学部分院系调整至其他院校，部分院系单独建校并发展成杭州大学浙江农业大学浙江医科大学，原浙江大学仅保留机械电机土木化工四系。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 137,
+    "time_periods": [
+      "1952年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p19",
+    "content": "浙江大学在1952年经历的院系调整浙江大学院系调整调入状况如下： 1952年2月，杭州之江大学的土木机械两系并入浙大。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 59,
+    "time_periods": [
+      "1952年",
+      "1952年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "之江"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p20",
+    "content": "1953年，厦门大学的电机土木机械三个系各一部分并入浙大。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 29,
+    "time_periods": [
+      "1953年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p21",
+    "content": "浙江大学院系调整调出状况如下： 理学院数学系物理系化学系生物系分别并入复旦大学数学系物理系化学系生物系。理学院药学系并入上海第一医学院（今复旦大学上海医学院）。理学院地理系分别并入华东师范大学，地理系气象组调入南京大学气象系，地理系全体学生调入南京大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 127,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p22",
+    "content": "文学院人类学系并入复旦大学生物系。文学院部分师生调入北京大学华东师范大学，部分并入浙江师范学院后改名为杭州大学，1998年回归浙大。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 66,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p23",
+    "content": "医学院与浙江省立医学院合并组建浙江医学院（后改名为浙江医科大学，1998年回归浙大）。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 43,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p24",
+    "content": "农学院森林系和东北农学院森林系合并为东北林学院（后更名为东北林业大学）。农学院畜牧兽医学系及农业化学系土壤肥料组并入南京农学院（后更名为南京农业大学）。农学院农业化学系农产品加工与制造组并入南京工学院食品工业系（后独立为无锡轻工业学院，复更名为江南大学）。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 128,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p25",
+    "content": "农学院农业经济系并入北京机械化农业学院（后更名为中国农业大学）及南京农学院（后更名为南京农业大学）。农学院未调整部分独立为浙江农学院（后改名为浙江农业大学，1998年回归浙大）。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 89,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p26",
+    "content": "工学院航空系与南京大学交通大学航空系合并组建华东航空学院（后并入西北工业大学）。工学院电机系无线电通讯及广播本科专业调入南京工学院（后更名为东南大学）。工学院电机系有线电市内电话热处理2个专修科调入交通大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 104,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p27",
+    "content": "工学院土木系水利组并入华东水利学院（后更名为河海大学）。工学院土木系铁路测量专修科并入同济大学。至此，调整后的浙江大学只保留工学院电机化工土木机械四系，成为一所多科性的工业大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 89,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p28",
+    "content": "在院系调整后，浙江大学形成以工为主理工结合的办学新布局，跻身全国前列；杭州大学形成文理为主多学科交叉的学科格局；浙江农业大学形成以农为主，多科协调发展的特色；浙江医科大学建设成为多科性医科大学，建成多所附属医院。世界第一台双水内冷发电机拍摄原子弹爆炸图像的高速摄影机硅单晶制备技术敦煌学研究等卓越成果均产自该时期，浙江大学创新的校训也在该时期确立。争创一流（1998至今） 为进一步实施科教兴国战略，中央决定合并组建新浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 214,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p29",
+    "content": "1998年9月15日，原来同根同源的浙江大学杭州大学浙江农业大学浙江医科大学正式合并，成为新的浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 52,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history.txt_p30",
+    "content": "四校合并以来，浙江大学大力推进实质性融合，抢抓机遇，应对挑战，为创建具有世界先进水平的综合型研究型创新型一流大学打下了扎实基础。",
+    "source": "本地文档",
+    "filename": "zju_history.txt",
+    "original_type": "校史概述",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 64,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p0",
+    "content": "求是溯源 求是书院（18971901）浙江求是大学堂（19011902）浙江大学堂（19021904）浙江高等学堂（19041912）浙江高等学校（19121914） 浙江大学的渊源求是书院创建于1897年。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 104,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p1",
+    "content": "1897年5月21日，在浙江巡抚廖寿丰杭州知府林启等人的努力下，浙江大学的前身求是书院在杭州正式办学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 51,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [
+      "林启"
+    ],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p2",
+    "content": "由于国内形势的变化和清末新政的陆续推进，学校几经更名，历经浙江求是大学堂（1901年）浙江大学堂（1902年）浙江高等学堂（1904年）浙江高等学校（1912年）。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 82,
+    "time_periods": [
+      "1901年",
+      "1902年",
+      "1904年",
+      "1912年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p3",
+    "content": "3 1351914年，因学制改革，浙江高等学校一度停办。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 28,
+    "time_periods": [
+      "1914年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p4",
+    "content": "浙江中等工业学堂（19101911）浙江公立中等工业学校（19121913）浙江公立甲种工业学校（19131916）浙江省立甲种工业学校（19161920）浙江公立工业专门学校（19201927） 1910年11月，浙江中等工业学堂筹建。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 119,
+    "time_periods": [
+      "1910年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p5",
+    "content": "1911年3月，浙江中等工业学堂正式开学，以蒲场巷杨官弄报国寺（原铜元局）为场址。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 41,
+    "time_periods": [
+      "1911年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p6",
+    "content": "同年10月因战事影响，暂时停办。1912年3月复课，改称浙江公立中等工业学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 39,
+    "time_periods": [
+      "1912年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p7",
+    "content": "1913年，更名为浙江公立甲种工业学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 20,
+    "time_periods": [
+      "1913年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p8",
+    "content": "1916年，改为浙江省立甲种工业学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 19,
+    "time_periods": [
+      "1916年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p9",
+    "content": "1920年秋，升格为浙江公立工业专门学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 21,
+    "time_periods": [
+      "1920年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p10",
+    "content": "135 322 浙江农业教员养成所（19101912）浙江中等农业学堂（19121913）浙江省立甲种农业学校（19131924）浙江公立农业专门学校（19241927） 1910年9月，浙江农业教员养成所成立，租赁杭州马坡巷为所址。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 117,
+    "time_periods": [
+      "1910年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p11",
+    "content": "1912年，改名为浙江中等农业学堂。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 18,
+    "time_periods": [
+      "1912年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p12",
+    "content": "1913年冬，改称浙江省立甲种农业学校，并迁入杭州笕桥新校舍。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 31,
+    "time_periods": [
+      "1913年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p13",
+    "content": "1924年秋，升格为浙江公立农业专门学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 21,
+    "time_periods": [
+      "1924年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p14",
+    "content": "321 323 第三中山大学（1927）国立第三中山大学（19271928） 1927年，南京国民政府成立后，决定实行大学区制，每区设立大学一所，统一命名为中山大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 83,
+    "time_periods": [
+      "1927年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p15",
+    "content": "同年7月15日，在原浙江高等学校办学旧址，整合了浙江公立工业专门学校和浙江公立农业专门学校成立第三中山大学，下设工学院（由浙江工专改组而来）和劳农学院（由浙江农专改组而来），并筹设文理学院。同年8月3日，第三中山大学冠名国立，称国立第三中山大学。3 135 浙江大学（1928）国立浙江大学（19281937） 1928年2月，国立第三中山大学改名为浙江大学，同年5月定名为国立浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 194,
+    "time_periods": [
+      "1928年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p16",
+    "content": "同年8月，国立浙江大学文理学院成立。1929年，国立浙江大学劳农学院更名为国立浙江大学农学院，1934年迁至华家池。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 58,
+    "time_periods": [
+      "1929年",
+      "1934年"
+    ],
+    "figures": [],
+    "locations": [
+      "华家池"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p17",
+    "content": "135至1936年，国立浙江大学已设有文理工农3个学院。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 28,
+    "time_periods": [
+      "1936年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p18",
+    "content": "文理学院设有外国语文教育史地数学物理化学生物等7个学系；工学院设有电机工程化学工程土木工程机械工程等4个学系；农学院设有农艺园艺植物病虫害蚕桑农业经济等5个学系。3201936年4月，蒋介石任命竺可桢为国立浙江大学校长，并答应了竺可桢提出的财源须源源接济，用人校长有全权，不受国民党之干涉的任职条件。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 150,
+    "time_periods": [
+      "1936年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p19",
+    "content": "217 探求崛起 国立浙江大学（19371950） （主词条：湄潭浙江大学旧址浙江大学龙泉分校旧址） 七七事变后，抗日战争全面爆发。1937年9月，竺可桢校长率领国立浙江大学师生员工及部分教职员家属，携带大批图书资料和仪器设备，一迁浙江於潜建德，二迁江西吉安泰和，三迁广西宜山。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 139,
+    "time_periods": [
+      "1937年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [
+      "建德",
+      "吉安",
+      "泰和",
+      "宜山",
+      "湄潭"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p20",
+    "content": "1940年1月，到达贵州遵义湄潭，在此办学近七年。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 25,
+    "time_periods": [
+      "1940年"
+    ],
+    "figures": [],
+    "locations": [
+      "遵义",
+      "湄潭"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p21",
+    "content": "与此同时，还在浙江设龙泉分校。西迁行程2600余公里，足迹涉及浙赣湘桂粤黔闽等7省。135 1945年10月，龙泉分校师生启程回杭。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 66,
+    "time_periods": [
+      "1945年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p22",
+    "content": "218同月，国立浙江大学师生分批启程回杭，师范学院在罗苑复课，其余在大学路校本部复课。2191946年5月7日，在遵义的师生分批返杭。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 67,
+    "time_periods": [
+      "1946年"
+    ],
+    "figures": [],
+    "locations": [
+      "遵义"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p23",
+    "content": "6月1日起，遵义总校结束，改为留守处。2209月，原分散在贵州遵义湄潭永兴及浙江龙泉等地的国立浙江大学师生全部抵达杭州，重新成为一个整体。135 1947年7月21日，校务会议决定将修复和新建的教学楼及宿舍楼冠以地方先贤和浙大西迁地名，以资纪念。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 123,
+    "time_periods": [
+      "1947年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "遵义",
+      "湄潭"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p24",
+    "content": "2211948年3月底，国立浙江大学已发展为拥有文理工农师范法医7个学院25个系9个研究所1个研究室的综合性大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 57,
+    "time_periods": [
+      "1948年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p25",
+    "content": "3 135 1949年4月，国立浙江大学成立应变委员会。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 28,
+    "time_periods": [
+      "1949年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p26",
+    "content": "5月3日，杭州宣布解放。翌月，中国人民解放军华东区杭州市军事管制委员会对国立浙江大学实行军事接管。135 调整发展 浙江大学（19501952） 1950年11月10日，国立浙江大学去国立二字，称浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 103,
+    "time_periods": [
+      "1950年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p27",
+    "content": "38 1952年院系调整前，浙江大学拥有文理工农法医师范七个学院。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 33,
+    "time_periods": [
+      "1952年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p28",
+    "content": "浙江大学（19521998），浙江师范学院（19521958）杭州大学（19581998），浙江农学院（19521960）浙江农业大学（19601998），浙江医学院（19521960）浙江医科大学（19601998） 1952年院系调整中，浙江大学的学科和院系设置发生了很大变动。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 141,
+    "time_periods": [
+      "1952年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p29_s0",
+    "content": "其部分系科调整到省外兄弟院校，部分院系或独立成校，或与之江大学浙江省立医学院等院校组合重新建校。3浙江大学院系调整状况如下： 1理学院数学系物理系化学系生物系并入复旦大学；理学院药学系并入上海第一医学院；理学院地理系分别并入华东师范大学和南京大学； 2文学院人类学系并入复旦大学；文学院师范学院部分并入华东师范大学，部分与之江大学的文理学院浙江师范专科学校组建浙江师范学院，其余部分调入北京大学厦门大学南京大学等； 3法学院停办； 4医学院与浙江省立医学院合并，成立浙江医学院； 5农学院独立为浙江农学院；农学院畜牧兽医学系并入南京农学院；农学院森林系和东北农学院森林系合并为东北林学院；农学院农化系并入南京工学院食品工业系； 6工学院航空系与南京大学交通大学的航空系合并，组建为华东航空学院；工学院土木系水利组并入华东水利学院；工学院电机系电信组并入南京工学院。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 382,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "之江"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p29_s1",
+    "content": "222 调整后的浙江大学成为一所多科性的工业大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 25,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p30",
+    "content": "1958年，浙江师范学院又与新建的杭州大学合并，定名杭州大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 31,
+    "time_periods": [
+      "1958年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p31",
+    "content": "1960年，浙江农学院更名为浙江农业大学，浙江医学院更名为浙江医科大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 36,
+    "time_periods": [
+      "1960年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p32",
+    "content": "3 1984年12月，浙江大学研究生院创建，是国务院首批批准试办的研究生院之一。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 40,
+    "time_periods": [
+      "1984年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p33",
+    "content": "223 1988年，路甬祥老校长在任时主持校务会议为校训添加创新两字，最终形成现在的求是创新校训。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 49,
+    "time_periods": [
+      "1988年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p34",
+    "content": "224 1995年，浙江大学成为首批列入国家211工程建设计划的重点大学之一。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 39,
+    "time_periods": [
+      "1995年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p35",
+    "content": "杭州大学浙江农业大学浙江医科大学也分别通过了211工程部门预审和重点建设项目立项论证。3 争创一流 浙江大学（1998） 1998年9月15日，浙江大学杭州大学浙江农业大学浙江医科大学合并组建为新的浙江大学，并仍定名浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 113,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p36",
+    "content": "3 1999年，浙大成为首批9所列入国家985工程建设计划的全国重点大学之一。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 39,
+    "time_periods": [
+      "1999年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p37",
+    "content": "225 2001年12月，成为首批试办国家示范性软件学院的高等学校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 34,
+    "time_periods": [
+      "2001年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p38",
+    "content": "40 2006年，首批入选高等学校学科创新引智计划（111计划）。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 33,
+    "time_periods": [
+      "2006年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p39",
+    "content": "39 2007年1月21日，浙江大学航空航天学院成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 27,
+    "time_periods": [
+      "2007年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p40",
+    "content": "416月，浙江大学入选第一批国家大学生创新性实验计划立项学校。42 2009年5月21日，浙大工学部和信息学部揭牌成立；随后，浙江大学实行了学部制，全校调整为七大学部。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 84,
+    "time_periods": [
+      "2009年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p41",
+    "content": "43同年，中国的九校联盟（C9）启动，浙大成为联盟成员之一。225 2010年6月，浙江大学入选教育部第一批卓越工程师教育培养计划高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 68,
+    "time_periods": [
+      "2010年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p42",
+    "content": "44 2012年9月，浙江大学入选第一批国家级大学生创新创业训练计划项目。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 37,
+    "time_periods": [
+      "2012年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p43",
+    "content": "4711月，入选教育部卫生部第一批卓越医生教育培养计划项目试点高校。4911月，入选国家首批卓越法律人才教育培养基地。48 2013年5月15日，浙江大学与英国帝国理工学院就建立联合学院事宜签署了浙江大学帝国理工联合学院合作谅解备忘录，浙大成为中国首个在世界名校建立海外校区的高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 141,
+    "time_periods": [
+      "2013年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p44",
+    "content": "226 2014年9月，入选国家第一批卓越农林人才教育培养计划改革试点项目。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 38,
+    "time_periods": [
+      "2014年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p45",
+    "content": "52 2015年7月，入选首批全国高校实践育人创新创业基地。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 30,
+    "time_periods": [
+      "2015年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p46",
+    "content": "51 2016年6月，入选浙江省国际化特色高校首批建设单位。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 30,
+    "time_periods": [
+      "2016年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p47",
+    "content": "539月，浙江工程师学院（浙江大学工程师学院）正式成立。54 2017年1月，被教育部认定为全国首批深化创新创业教育改革示范高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 65,
+    "time_periods": [
+      "2017年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p48",
+    "content": "519月，浙江大学入选国家双一流建设高校。5 2018年3月，入选教育部首批新工科研究与实践项目。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 49,
+    "time_periods": [
+      "2018年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p49",
+    "content": "557月5日，图灵奖得主惠特菲尔德迪菲教授加盟浙江大学。2278月1日，浙江大学与宁波市签署协议，全面推进建设浙江大学宁波校区。5611月，浙江大学等9所双一流建设高校联合组建了医学双一流建设联盟。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 99,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p50",
+    "content": "228 2019年2月，浙大被教育部认定为首批高等学校科技成果转化和技术转移基地。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 41,
+    "time_periods": [
+      "2019年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p51",
+    "content": "585月，发起成立长三角研究型大学联盟。2297月，首批入选中国高校行星科学联盟。2307月，由浙大与温州市政府合作共建的浙江大学温州研究院正式挂牌成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 77,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p52",
+    "content": "2319月22日，发起成立长三角高校智库联盟。23210月，浙江大学医学院脑科学与脑医学学院成立。59 2020年1月，浙江大学入选强基计划试点高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 75,
+    "time_periods": [
+      "2020年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p53",
+    "content": "616月，浙江大学与上海市人民政府签署战略合作协议，浙江大学上海高等研究院揭牌。2337月，入选第二批高校国家知识产权信息服务中心建设名单。2349月30日，浙江大学宣布筹建大健康学院。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 93,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p54",
+    "content": "6310月，浙江大学被国家知识产权局教育部确定为2020年度国家知识产权示范高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 41,
+    "time_periods": [
+      "2020年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p55",
+    "content": "64 2021年1月9日，浙江大学亚洲文明研究院成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 27,
+    "time_periods": [
+      "2021年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p56",
+    "content": "651月17日，加入长三角文化遗产保护与文化资源共享研究联盟。2351月24日，加入中国自由贸易试验区研究院联盟。2363月27日，成立浙江大学成立数字法治研究院。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 82,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p57",
+    "content": "664月22日，安徽省安庆市人民政府与浙江大学签署协议，将共建浙江大学安庆未来产业技术研究中心。2374月23日，浙江大学发起组建长三角可持续发展大学联盟。2386月6日，浙江大学共享与发展研究院在浙江杭州成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 106,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p58",
+    "content": "6711月10日，浙江大学控制学院石虎山机器人创新基地正式成立。68 2022年2月，浙江大学入选第二轮国家双一流建设高校。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 62,
+    "time_periods": [
+      "2022年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p59",
+    "content": "1377月28日，浙大欢迎您仪式在紫金港校区举行，著名经济学家陈松年教授全职加盟浙江大学，受聘为首位青山讲席教授。2398月20日，浙江大学上海高等研究院智能医疗联合研究与转化中心成立。2409月，浙江大学长三角智慧绿洲创新中心首期开园。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 119,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "紫金港"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p60",
+    "content": "2419月，浙江大学镇海炼化联合研究中心前天在中石化宁波新材料研究院揭牌成立。2429月，浙江大学获批国家卓越工程师学院首批试点建设单位。24311月16日，发起成立浙江省高校科协联合体。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 94,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p61",
+    "content": "24412月10日，担任浙江省新医科发展联盟理事长单位。24512月15日，浙江大学文学院历史学院和哲学学院正式成立。138 2023年3月，高等教育专业评价机构软科发布2023软科中国大学排名，浙江大学排名第三。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 107,
+    "time_periods": [
+      "2023年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p62",
+    "content": "2463月28日，发起成立国际传播学会中国理事会。2474月10日，浙江大学国家卓越工程师学院揭牌仪式举行。2484月17日，中国共产党浙江大学第十五届委员会第一次全体会议在紫金港校区举行。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 95,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "紫金港"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p63",
+    "content": "2495月6日，浙江大学河北技术转移中心揭牌仪式在唐山市玉田县举行。2506月10日，发起成立高校工程教育课程思政联盟。25111月，阿里巴巴达摩院将量子实验室及量子实验仪器设备捐赠予浙江大学，并向其他高校和科研机构进行开放。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 113,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p64",
+    "content": "25212月10日，成立感传算控科创发展联盟。25312月18日，浙江大学物理高等研究院成立。69 2024年1月，浙江大学成立集成电路学院，集成电路学院党委纪委；撤销微电子（微纳电子学院） 70；同年1月20日，浙江大学图书馆主馆正式开馆，翻开书香浙大的新一页。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 132,
+    "time_periods": [
+      "2024年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p65",
+    "content": "7110月18日上午，浙江大学一带一路国际医学院正式成立仪式举行。26011月14日，浙江大学文化遗产与社会发展研究中心揭牌成立。26111月30日，浙江大学医学遗传与发育研究院正式揭牌成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 96,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p66",
+    "content": "263 2025年1月，浙江大学与蚂蚁集团达成新一轮战略合作，成立浙江大学蚂蚁集团数据与智能联合研究中心。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 53,
+    "time_periods": [
+      "2025年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p67",
+    "content": "2652月14日，浙江大学深度融合智能体浙大先生正式发布，本地化部署DeepSeek V3R1模型，基于CARSI资源共享平台，覆盖教学科研生活等全场景。2692月15日，浙江大学脑机智能全国重点实验室与威海市立医院合作建设的脑机智能医疗应用联合实验室揭牌。2672月18日，浙江大学软件学院（宁波）创新与管理中心浙江大学宁波国际科创中心浙江大学网易联合研发中心揭牌。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 184,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p68",
+    "content": "2682月21日，杭州市委宣传部杭州市社科联浙江大学共建浙江大学杭州文化研究中心（杭州城市文化研究中心）签约和机构揭牌仪式在浙江大学举行。2973月25日，浙江大学与中国农业银行在紫金港校区签署全面战略合作协议 298。3月26日，苹果公司宣布向浙江大学捐赠3000万元人民币，将共同设立移动应用孵化基金 299。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 157,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "紫金港"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p69",
+    "content": "3月28日，康恩贝集团与浙江大学签订战略合作协议。3014月23日，浙江大学与OPPO签署战略合作协议。3077月3日下午，浙江大学临床医学研究中心正式揭牌成立。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 81,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_baidu.txt_p70",
+    "content": "3137月14日，浙江大学与阿里巴巴集团签署合作协议，启动共建人工智能安全联合实验室，首批10个课题完成开题汇报。314。",
+    "source": "本地文档",
+    "filename": "zju_history_baidu.txt",
+    "original_type": "百度百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "成就",
+      "改革"
+    ],
+    "word_count": 61,
+    "time_periods": [],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p0",
+    "content": "求是书院 1897年，杭州知府林启在浙江巡抚廖寿丰支持下，于普慈寺故址建立求是书院，是为浙江省高等教育之嚆矢，浙江大学之前身。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 63,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [
+      "林启"
+    ],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p1",
+    "content": "11求是书院是中国近代史上效法西方学制最早创办的几所新式高等学校之一，在初创时期受到同城的育英书院的影响，以育英书院的美国教师王令赓为总教席，统管书院的教学事务。1898年，求是书院又率先派遣学生去日本留学，为各省派往日本游学之首倡。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 117,
+    "time_periods": [
+      "1898年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p2",
+    "content": "12 19011904年，因应学制改革，先后改称求是大学堂浙江大学堂浙江高等学堂，采用大学预科的体例。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 51,
+    "time_periods": [
+      "1904年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p3",
+    "content": "辛亥革命后，新旧学制交替，教育部令各高等学堂停办，遂停止招生，维持至1914年最后一届学生毕业而关停。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 51,
+    "time_periods": [
+      "1914年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p4",
+    "content": "11 1947年，浙江大学纪念建校20周年暨求是书院成立50周年，校友纷纷将校史追溯到1897年成立的求是书院，史地学家浙江大学教授张其昀明确将求是书院称为浙江大学的前身。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 86,
+    "time_periods": [
+      "1947年",
+      "1897年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p5",
+    "content": "1948年，中华民国教育部教育年鉴编辑委员会编《第二次中国教育年鉴》亦以求是书院开始介绍浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 49,
+    "time_periods": [
+      "1948年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p6",
+    "content": "13 国立大学 早期发展 1914年高等学堂关闭后，不断有重设大学之倡议，但因军阀混战始终无果而终。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 50,
+    "time_periods": [
+      "1914年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p7",
+    "content": "14 1927年2月，北伐军攻占杭州，整顿浙江省教育事务。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 29,
+    "time_periods": [
+      "1927年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p8",
+    "content": "14蒋梦麟邵裴子陈大齐郑晓沧何炳松汤兆丰马叙伦邵元冲陈榥等一批求是书院师生积极筹备大学的建立。13时任浙江省教育厅长蒋梦麟即委派郑晓沧到求是书院旧址考察，最终第三中山大学即成立于求是书院旧址。13新设立之大学以前浙江公立工业专门学校为工学院，前浙江公立农业专门学校为劳农学院，并由邵裴子于第二年组建文理学院。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 154,
+    "time_periods": [],
+    "figures": [
+      "蒋梦麟"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p9",
+    "content": "因试行大学区制，大学定名为第三中山大学。14 1928年4月改名为浙江大学，称中华民国大学院浙江大学，7月加冠国立二字，称国立浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 68,
+    "time_periods": [
+      "1928年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p10",
+    "content": "由国民政府指派时任教育部部长蒋梦麟作为校长。14在当时，浙大以四月一日为校庆纪念日，盖因求是书院创设于1897年农历4月。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 61,
+    "time_periods": [
+      "1897年"
+    ],
+    "figures": [
+      "蒋梦麟"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p11",
+    "content": "15 1929年大学区制废除，浙大行政职能由省教育厅接收。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 29,
+    "time_periods": [
+      "1929年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p12",
+    "content": "141929年，蒋因教育部工作繁重，辞去浙大校长职务，国民政府指派副校长邵裴子接任。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 42,
+    "time_periods": [
+      "1929年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p13",
+    "content": "14 1931年，学校经费困难，部分学生冲撞需要解释教师，邵裴子辞任校长，由程天放继任。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 44,
+    "time_periods": [
+      "1931年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p14",
+    "content": "程天放改革校政，精简组织，争取经费，改善收支，但不久即被调任湖北省教育厅长，师生向蒋介石挽留无果。16 1933年3月，郭任远接任浙大校长，在学生间实行军事化管理。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 82,
+    "time_periods": [
+      "1933年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p15",
+    "content": "171934年，在华家池购地，兴建农学馆。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 21,
+    "time_periods": [
+      "1934年"
+    ],
+    "figures": [],
+    "locations": [
+      "华家池"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p16",
+    "content": "181935年，因军警入校逮捕抗议学生引发驱郭风潮，校长被学生逐出学校，蒋介石亲赴杭州走访处置事件，最终撤换郭任远。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 58,
+    "time_periods": [
+      "1935年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p17",
+    "content": "16 竺可桢治校 竺可桢等浙江大学老师在西迁泰和时的图书馆前留影（1938年5月） CC系失势，政治素人学者竺可桢被多方力荐，1936年4月赴杭州担任浙大校长。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 80,
+    "time_periods": [
+      "1938年",
+      "1936年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [
+      "杭州",
+      "泰和"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p18",
+    "content": "不久，因大量引入东南大学旧日同事，被诟病植党行私，但因学衡派学者和中国科学社重要成员的云集，逐步成为学术重镇。19 1937年卢沟桥事变后，新生被安置于西天目山禅源寺，并引入导师制。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 91,
+    "time_periods": [
+      "1937年"
+    ],
+    "figures": [],
+    "locations": [
+      "天目山",
+      "禅源寺"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p19",
+    "content": "1937年11月，浙大杭州本部迁往建德梅城，并协同浙江图书馆将文澜阁《四库全书》一同迁移。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 45,
+    "time_periods": [
+      "1937年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "建德"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p20",
+    "content": "1937年底，杭州沦陷，浙大离开建德，迁往江西吉安泰和。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 28,
+    "time_periods": [
+      "1937年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "建德",
+      "吉安",
+      "泰和"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p21",
+    "content": "随着日军在1938年7月占领江西九江，浙大再度迁往广西宜山，并在1938年8月增设师范学院。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 46,
+    "time_periods": [
+      "1938年",
+      "1938年"
+    ],
+    "figures": [],
+    "locations": [
+      "宜山"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p22",
+    "content": "1939年7月，浙大在丽水龙泉芳野曾家大屋开办分校，服务由于经济与交通问题无法前往内地升学的同学。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 49,
+    "time_periods": [
+      "1939年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p23",
+    "content": "1939年11月，随着广西南宁陷落，浙大迁往贵州遵义。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 27,
+    "time_periods": [
+      "1939年"
+    ],
+    "figures": [],
+    "locations": [
+      "遵义"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p24",
+    "content": "18在遵义期间，被访问浙大的英国皇家学会著名学者李约瑟誉为东方剑桥。1945年3月，多次发表批评政府之言论的原浙大训导处主任浙大教授费巩在前往当时位于重庆的复旦大学教学后失踪，校方多方求助无果，后被证实为军统所杀害，尸骨无存。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 113,
+    "time_periods": [
+      "1945年"
+    ],
+    "figures": [
+      "李约瑟"
+    ],
+    "locations": [
+      "遵义"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p25",
+    "content": "20玉泉校区建有费巩亭，以作纪念。21 1945年9月，日本战败。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 33,
+    "time_periods": [
+      "1945年"
+    ],
+    "figures": [],
+    "locations": [
+      "玉泉"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p26",
+    "content": "浙大教授罗宗洛奉命前往台湾接收台北帝国大学，并邀请农学院蔡邦华院长及数学系陈建功苏步青教授三人一同前往。22 1945年10月，龙泉分校师生率先启程回杭，11月在杭复课。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 85,
+    "time_periods": [
+      "1945年"
+    ],
+    "figures": [
+      "陈建功",
+      "苏步青",
+      "蔡邦华"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p27",
+    "content": "遵义总校则在1946年5月7日动身回杭，改遵义校址为留守处。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 30,
+    "time_periods": [
+      "1946年"
+    ],
+    "figures": [],
+    "locations": [
+      "遵义"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p28",
+    "content": "由遵义往杭州，经贵阳玉屏出贵州，后经停长沙领取联合国善后救济总署之难民证，得享基本食宿与免费车船搭乘之待遇。同年奉教育部之命令增设医学院。1947年7月21日，校务会议决定以地方先贤和浙大西迁地名命名修复和新建的教学楼及宿舍楼。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 114,
+    "time_periods": [
+      "1947年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "遵义"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p29",
+    "content": "20 1947年，学生自治会主席于子三，被中统秘密逮捕，后在狱中死亡，引发学生罢课与游行示威，因入葬事宜学生校方与政府三方僵持，引发流氓队伍入校骚乱以及学生对竺可桢中间路线的不满；直至1948年3月14日，于子三方才入葬凤凰山。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 114,
+    "time_periods": [
+      "1947年",
+      "1948年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p30",
+    "content": "23于子三事件后，竺可桢因其中间路线与学生关系紧张，但也不愿意随国民党离开中国大陆，最终于1949年避居上海中央研究院，直至中共接管。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 67,
+    "time_periods": [
+      "1949年"
+    ],
+    "figures": [
+      "竺可桢"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p31",
+    "content": "24 国共内战后 改造重组 1949年8月，由马寅初接任浙大校长，推动教职员政治学习，创立校代表大会制度，支持浙大学生服务部开设夜校服务工农。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 71,
+    "time_periods": [
+      "1949年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p32",
+    "content": "251950年，奉教育部命令，删除校名中国立二字。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 25,
+    "time_periods": [
+      "1950年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p33",
+    "content": "1951年，马寅初调任北大校长，推动教职员政治学习，后演变为思想改造和三反五反运动，25波及浙大，苏步青蔡邦华谈家桢王国松邵均路嘉冰李寿恒等浙大教师遭受冲击。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 79,
+    "time_periods": [
+      "1951年"
+    ],
+    "figures": [
+      "苏步青",
+      "蔡邦华",
+      "谈家桢"
+    ],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p34",
+    "content": "26 1950年代初期，经历院系调整：仿效苏联模式，浙大只保留工学院电机化工土木机械四系，之江大学相关工科专业并入浙大；农学院独立建校，称浙江农学院；医学院与浙江省立医学院合并，组建浙江医学院；27以浙大与之江大学的中国文学外国文学教育学三系，加浙江师范专科学校，接收之江大学校产，成立浙江师范学院；28部分理学院师资抽调往中国科学院；29 1954年，浙大动身迁校，选址于杭州市第一公墓。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 195,
+    "time_periods": [
+      "1950年",
+      "1954年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "之江"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p35",
+    "content": "1956年迁入称玉泉校区。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 13,
+    "time_periods": [
+      "1956年"
+    ],
+    "figures": [],
+    "locations": [
+      "玉泉"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p36",
+    "content": "30大学路校区则转给省中医进修学校使用，31求是书院原中西合璧建筑群均被拆除，仅存普慈寺大殿。1957年，在刘丹书记推动下，浙大重新筹建理科系。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 72,
+    "time_periods": [
+      "1957年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p37",
+    "content": "1958年，浙江师范学院改建为综合性杭州大学，由之江迁往松木场校址。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 34,
+    "time_periods": [
+      "1958年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州",
+      "之江"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p38",
+    "content": "28同年，杭州工学院撤销，并归浙大，其校区作为文二街二分部进行新生教育。32 1963年，浙江大学被添列为全国重点大学。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 60,
+    "time_periods": [
+      "1963年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p39",
+    "content": "33同年，浙大无线电电子系成立，从玉泉本部搬迁到六和塔浙大三分部。文化大革命期间 文革期间，校务停顿，校内涌现了烈火大队红旗联合战斗团红联军红暴会等一批红卫兵组织。1966年6月，浙大主持校务的党委副书记刘丹被《浙江日报》《人民日报》公开点名批评，并被撤职。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 129,
+    "time_periods": [
+      "1966年"
+    ],
+    "figures": [],
+    "locations": [
+      "玉泉"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p40",
+    "content": "8月红卫兵运动兴起后，全校各级组织已处于瘫痪半瘫痪状态，红卫兵以破四旧为名毁坏各类历史文物，34引发浙大学生与中学生红卫兵对峙辩论保卫灵隐寺。浙大学生受到景区员工附近村民以及浙江鲁迅美术学院学生以及杭州市民的普遍支持，后周恩来总理下达命令保护灵隐寺，方终止争端。3510月，烈火大队在浙大体育场举行四万人集会，批判浙江省副省长兼浙大校长党委书记陈伟达。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 176,
+    "time_periods": [],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p41",
+    "content": "1967年，浙大学生在北京见到谭震林，对方转达毛泽东意见，要保江华，导致红卫兵队伍分裂，浙大起家的红暴会一派主张保江华，另一派则是以张永生为首的省联总则坚持要求批斗江华，认为不打倒江华则文革无法继续下去，两派长期斗争，最终于1970年通过协议共同组建革命委员会。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 131,
+    "time_periods": [
+      "1967年",
+      "1970年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p42",
+    "content": "1975年，张永生到浙大做报告时，被浙大师生围困，其把大学办成无产阶级专政的工具的言论被师生批判，张永生当场认错，事后住院装病装死，并电告王洪文，浙大师生不少因之被捕。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 84,
+    "time_periods": [
+      "1975年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p43",
+    "content": "36 改革开放 文革结束后，刘丹恢复名誉，后获得名誉校长称号，是该荣誉称号唯一持有者。文二街二分部校址文革后转给杭州电子工学院。32 1977年恢复高考。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 77,
+    "time_periods": [
+      "1977年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p44",
+    "content": "1980年11月，浙大改为由教育部和浙江省共建。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 24,
+    "time_periods": [
+      "1980年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p45",
+    "content": "1995年，浙大成为首批列入国家211工程建设计划的重点大学之一。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 33,
+    "time_periods": [
+      "1995年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p46",
+    "content": "杭州大学浙江农业大学浙江医科大学亦成为浙江省属重点大学。20世纪九十年代，中国大陆兴起高校合并浪潮；杭州大学浙江农业大学浙江医科大学与老浙江大学于1998年9月15日完成四校合并，组建为新的综合性的浙江大学。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 104,
+    "time_periods": [
+      "1998年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p47",
+    "content": "1999年由浙江大学与杭州市人民政府合作办学的民办独立学院浙江大学城市学院建立。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 40,
+    "time_periods": [
+      "1999年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p48",
+    "content": "2001年，浙大在紫金港修建新校区，2002年落成后成为主校区。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 32,
+    "time_periods": [
+      "2001年",
+      "2002年"
+    ],
+    "figures": [],
+    "locations": [
+      "紫金港"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p49",
+    "content": "2005年，湖滨校区以246亿元价格转让给香港嘉里集团，创下杭州地价记录；2007年，西湖第一高楼湖滨校区教学主楼被爆破拆除。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 63,
+    "time_periods": [
+      "2005年",
+      "2007年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p50",
+    "content": "2011年，紫金港校区西区动工，2019年投入运营。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 26,
+    "time_periods": [
+      "2011年",
+      "2019年"
+    ],
+    "figures": [],
+    "locations": [
+      "紫金港"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p51",
+    "content": "2012年，舟山校区动工，并于2015年投入运营，为海洋学院之专门校区。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 36,
+    "time_periods": [
+      "2012年",
+      "2015年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p52",
+    "content": "2014年，海宁校区动工，并于2016年投入运营，内设浙江大学爱丁堡大学联合学院浙江大学伊利诺伊大学厄巴纳香槟校区联合学院等联合办学机构。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 69,
+    "time_periods": [
+      "2014年",
+      "2016年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p53",
+    "content": "2018年，浙大和宁波市政府签约，以浙大宁波理工学院现有校园建设宁波校区。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 37,
+    "time_periods": [
+      "2018年"
+    ],
+    "figures": [],
+    "locations": [],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  },
+  {
+    "id": "zju_history_wiki.txt_p54",
+    "content": "2020年，浙江大学城市学院转设为浙大城市学院，系杭州市属公办本科层次普通高校。",
+    "source": "本地文档",
+    "filename": "zju_history_wiki.txt",
+    "original_type": "维基百科资料",
+    "enhancement_level": "高质量",
+    "key_topics": [
+      "西迁",
+      "合并",
+      "创立",
+      "发展",
+      "改革"
+    ],
+    "word_count": 40,
+    "time_periods": [
+      "2020年"
+    ],
+    "figures": [],
+    "locations": [
+      "杭州"
+    ],
+    "chunk_timestamp": "2025-10-30 14:00:56"
+  }
+]
