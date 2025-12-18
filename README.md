@@ -77,14 +77,10 @@ http://127.0.0.1:<端口>   # 例如 7861/7862
 端口占用时会自动尝试其它端口；也可通过环境变量指定端口：`GRADIO_SERVER_PORT=<端口>`。
 
 ## 系统截图
-- 将截图文件放入 `assets/screenshots/` 目录
-- 推荐文件名：
-  - `home.png`（首页）
-  - `query_example.png`（问答示例）
-  - `stats.png`（系统统计）
-- README 中的占位引用：
-  - ![首页](assets/screenshots/home.png)
-  - ![问答示例](assets/screenshots/query_example.png)
+- 首页:
+   ![首页](assets/screenshots/home.png)
+- 问答示例：
+   ![问答示例](assets/screenshots/query_example.png)
 
 ## 最小化验证
 - 直连 LLM 测试：
