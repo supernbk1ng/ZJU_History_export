@@ -98,15 +98,6 @@ python src/tests/test_ollama.py
 - GBK 编码问题：终端打印 emoji 可能报编码错误，本项目已尽量避免
 - 引用来源显示“未知章节”：已统一从 `metadata.section_title/source` 读取，如果数据侧没有这两个字段，会显示默认值
 
-## 提交到 GitHub
-```bash
-git init
-git add .
-git commit -m "feat: migrate to src/, cleanup, add web app"
-git branch -M main
-git remote add origin <你的仓库URL>
-git push -u origin main
-```
 
 ## 许可证
 - 语料数据为教学与研究用途，请在合规范围内使用
